@@ -1,0 +1,11 @@
+git clone- is used to pull a git repo
+git status- shows all file and status of a git repo
+git add ..- is used to save up work done or add file to a git repo
+git commit- is used to save up changes
+git push - is used to back up the new repo to github
+git checkout - is used to switch between branches
+git checkout -b - is used to create a new branch 
+git branch- is used to check the present branch
+git branch -d - is used to delete branch after use
+git reset - is used to undo commit
+to create a branch we use "git checkout -b 'branchname'" 
